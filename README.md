@@ -8,7 +8,7 @@ Pygame is essential for running the script
 Pygame can be installed from the terminal as follows: pip install pygame
 
 ## Screenshots
-![Example screenshot](./img/atla-wars.png)
+![Example screenshot](./Assets/atla-wars.png)
 
 ## Usage
 Blue Player :
