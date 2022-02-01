@@ -12,7 +12,7 @@ Pygame can be installed from the terminal as follows: pip install pygame
 
 ## Usage
 Blue Player :
-
+`
  +------------------------------+
     |      KEYS      |    ACTION   |
     +----------------+-------------+
@@ -34,3 +34,4 @@ Red Player :
     |  Down Arrow    |     DOWN    |
     |  Right CTRL    |     FIRE    |  
     +----------------+-------------+
+`
